@@ -1,6 +1,6 @@
 # StreamGate
 
-<h1>**For LUKSO to successfully support the new creative economy, music artists need a seamless experience to produce assets (e.g. Music NFTs) connecting them to fans living on popular streaming platforms.**</h1>
+<h2>**For LUKSO to successfully support the new creative economy, music artists need a seamless experience to produce assets (e.g. Music NFTs) connecting them to fans living on popular streaming platforms.**</h2>
 
 New web3 startups enter as loud challengers to the tech category, competing and fighting for market share with web3 and established web2 players. As a result these established companies play defense by denying the need for and (even banning) web3 and crypto. We believe in partnering to innovate instead of competing amongst our peers.
 
