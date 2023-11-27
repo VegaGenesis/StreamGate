@@ -32,7 +32,7 @@ Through the artist hub, artists will have the ability to create mintable LSP-7 o
 
 Fans will need a Universal Profile to be recognizable to their favorite artists, mint NFTs and play a part in expanding the LUKSO ecosystem. The quantifiable listening data makes it easy to create leaderboards or badges based on completed challenges, total stream time, or number of minted NFTs, so that fans can set themselves up for future rewards as artists add layers of gamification. 
 
-Future Roadmap:
+<h2>Future Roadmap:</h2>
 
 Our submission to the hackathon starts with solving for possibilities using music data and information as it aligns with YJG’s current goals and pipeline as a creative studio. We’ve come to realize that the possibilities for this gamification and reward system can be applied to any user base on a platform with an API that allows for stat access and recording. We can link follower activity, viewing activity, and subscription information to dynamic metadata changes related to a specific token, and create reward systems that allow creators to grow their platforms. We believe building with LUKSO and its ecosystem will make this vision possible. 
 
