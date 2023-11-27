@@ -1,4 +1,4 @@
-# StreamGate
+<h1># StreamGate</h1>
 
 <h2>**For LUKSO to successfully support the new creative economy, music artists need a seamless experience to produce assets (e.g. Music NFTs) connecting them to fans living on popular streaming platforms.**</h2>
 
