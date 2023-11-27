@@ -40,7 +40,9 @@ Fans will need a Universal Profile to be recognizable to their favorite artists,
 Our submission to the hackathon starts with solving for possibilities using music data and information as it aligns with YJG’s current goals and pipeline as a creative studio. We’ve come to realize that the possibilities for this gamification and reward system can be applied to any user base on a platform with an API that allows for stat access and recording. We can link follower activity, viewing activity, and subscription information to dynamic metadata changes related to a specific token, and create reward systems that allow creators to grow their platforms. We believe building with LUKSO and its ecosystem will make this vision possible. 
 
 <h2>Team Members:</h2>
+
 Vega: Systems.VegaGenesis@gmail.com
+
 
 Dom Jordan: domrome.1@gmail.com
 
