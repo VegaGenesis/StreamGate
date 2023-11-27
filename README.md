@@ -5,8 +5,10 @@
 New web3 startups enter as loud challengers to the tech category, competing and fighting for market share with web3 and established web2 players. As a result these established companies play defense by denying the need for and (even banning) web3 and crypto. We believe in partnering to innovate instead of competing amongst our peers.
 
 We feel this tension especially in Music. Music NFTs don’t have a place to exist in a meaningful way. Fans have two options: 
-<br>listen to web3 music on new platforms, away from the rest of their music, or</br>
-<br>download that music via token gate, and put it on a device, in a place that is still away from the rest of their music.</br>
+
+listen to web3 music on new platforms, away from the rest of their music, or
+download that music via token gate, and put it on a device, in a place that is still away from the rest of their music.
+
 We believe the disconnect between web2 and web3 music is an opportunity for LUKSO’s Universal Profile to improve the experience for every stakeholder and participant in the music ecosystem, through seamless listening experiences and benefits unlocked from artist-fan relationships.
 
 <h2>Solution: Introducing StreamGate</h2>
