@@ -7,6 +7,7 @@ New web3 startups enter as loud challengers to the tech category, competing and 
 We feel this tension especially in Music. Music NFTs don’t have a place to exist in a meaningful way. Fans have two options: 
 
 listen to web3 music on new platforms, away from the rest of their music, or
+
 download that music via token gate, and put it on a device, in a place that is still away from the rest of their music.
 
 We believe the disconnect between web2 and web3 music is an opportunity for LUKSO’s Universal Profile to improve the experience for every stakeholder and participant in the music ecosystem, through seamless listening experiences and benefits unlocked from artist-fan relationships.
