@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@lukso/lsp-smart-contracts": "^0.12.1",
+    "ethersjs": "^0.0.1-security",
+    "siwe": "^2.1.4",
+    "web3": "^4.2.2"
+  }
+}

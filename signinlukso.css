@@ -1,0 +1,78 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: var(--backgrounds-primary, #28293d);
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin-top: 20px;
+  background-image: url("Junior-JR-x-Bruce-Lee.png");
+  background-size: cover;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e6e6e6;
+  padding: 20px 20px;
+  margin: auto;
+  width: 300px;
+  align-items: center;
+  text-align: center;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.login-container img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #eac331;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.login-container button:hover{
+  padding: 12px;
+
+}
+
+.login-container .signup-link {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.login-container input:hover {
+  background-color: #28293d;
+  color: #fff;
+}
+
+.login-container button > a {
+  text-decoration: none;
+  color: white;
+}
+
+.concept-container {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.concept-container p {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px #090a0e;
+}
